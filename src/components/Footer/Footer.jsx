@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
 
       <div className='text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-10 py-6'>
-        <p>@ 2025 <a href="/">PAP - Kelompok 2</a>. All right reserved.</p>
+        <p>@ 2025 <a href="/">PAP - Kelompok 10</a>. All right reserved.</p>
         <ul className='flex gap-10 mt-4 items-center justify-center sm:mt-0'>
           <li><a target="_blank" rel="noopener noreferrer" href="https://wisnuibnu-dev.vercel.app/">Github</a></li>
           <li><a target="_blank" rel="noopener noreferrer" href="https://wisnuibnu-dev.vercel.app/">LinkedIn</a></li>
