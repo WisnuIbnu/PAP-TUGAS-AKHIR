@@ -6,6 +6,15 @@ A **SewaCar.id website** is an online platform that allows users to rent cars fo
 
 ---
 
+## Nama Mahasiswa 
+
+1. Jati Yuana Marta Wibawa
+2. Wisnu Ibnu Muttaqiem
+3. Amaliyah Syahidatun Ni’mah  
+4. Nisa’ Aulia Harismadani
+
+---
+
 ## 🛠️ Built With
 
 - ⚛️ React JS  
