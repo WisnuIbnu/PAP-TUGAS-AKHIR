@@ -6,7 +6,7 @@ import Testimonials from "../components/Testimonial/Testimonials";
 
 
 
-const Booking = () => {
+const TestimonialClient = () => {
     const [theme, setTheme] = useState(
     localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
   );
@@ -44,4 +44,4 @@ const Booking = () => {
   )
 }
 
-export default Booking
+export default TestimonialClient
