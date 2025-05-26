@@ -10,7 +10,7 @@ const Hero = ({ theme }) => {
   }, []);
 
   return (
-    <div className="dark:bg-dark text-dark bg-slate-100 dark:text-white duration-300">
+    <div id='hero' className="dark:bg-dark text-dark bg-slate-100 dark:text-white duration-300">
       <div className="container min-h-[620px] flex">
         <div className="grid grid-cols-1 sm:grid-cols-2 place-items-center">
           <div

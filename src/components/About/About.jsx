@@ -24,7 +24,7 @@ const Data = [
 
 const About = () => {
   return (
-    <div className="dark:bg-dark text-dark bg-slate-100 sm:min-h-[600px] sm:grid sm:place-items-center duration-300">
+    <div id="product" className="dark:bg-dark text-dark bg-slate-100 sm:min-h-[600px] sm:grid sm:place-items-center duration-300">
       <div className="container">
         <div className="grid grid-cols-1 sm:grid-cols-2 place-items-center">
           <div data-aos="slide-right" data-aos-duration="1500">
