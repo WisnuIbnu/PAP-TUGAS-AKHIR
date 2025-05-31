@@ -10,7 +10,7 @@ const TeamOne = [
     id: 1,
     img:unknown,
     title: "Jati Yuana Marta Wibawa",
-    description: "Sebagai UI Designer, Jati bertanggung jawab dalam merancang antarmuka pengguna yang intuitif dan estetis untuk website SewaCar.id.",
+    description: "-",
   },
   {
     id: 2,
@@ -31,7 +31,7 @@ const TeamTwo = [
     id: 1,   
     img:unknown,
     title: "Nisa’ Aulia Harismadani",
-    description: "Sebagai Technical Writer, Nisa mendokumentasikan proses pengembangan serta menyusun laporan dan dokumentasi teknis proyek SewaCar.id.",
+    description: "-",
   },
   {
     id: 2,
