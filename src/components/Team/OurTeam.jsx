@@ -2,12 +2,13 @@ import { useState } from "react";
 import team1 from "../../assets/team/wisnu2.png";
 import buAlmira from "../../assets/team/almira.png";
 import team2 from "../../assets/team/nimah.png";
+import unknown from "../../assets/team/unknow.png";
 
 
 const TeamOne = [
   {
     id: 1,
-    img:team1,
+    img:unknown,
     title: "Jati Yuana Marta Wibawa",
     description: "Sebagai UI Designer, Jati bertanggung jawab dalam merancang antarmuka pengguna yang intuitif dan estetis untuk website SewaCar.id.",
   },
@@ -28,7 +29,7 @@ const TeamOne = [
 const TeamTwo = [
   {
     id: 1,   
-    img:team1,
+    img:unknown,
     title: "Nisa’ Aulia Harismadani",
     description: "Sebagai Technical Writer, Nisa mendokumentasikan proses pengembangan serta menyusun laporan dan dokumentasi teknis proyek SewaCar.id.",
   },
