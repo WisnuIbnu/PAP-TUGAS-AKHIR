@@ -2,15 +2,16 @@ import { useState } from "react";
 import team1 from "../../assets/team/wisnu2.png";
 import buAlmira from "../../assets/team/almira.png";
 import team2 from "../../assets/team/nimah.png";
-import unknown from "../../assets/team/unknow.png";
+import team3 from "../../assets/team/nisa.png";
+import team4 from "../../assets/team/yuan.png";
 
 
 const TeamOne = [
   {
     id: 1,
-    img:unknown,
+    img:team4,
     title: "Jati Yuana Marta Wibawa",
-    description: "-",
+    description: "Sebagai UI/UX Designer, Yuan merancang antarmuka yang menarik dan alur interaksi yang intuitif untuk menciptakan pengalaman pengguna yang optimal.",
   },
   {
     id: 2,
@@ -29,9 +30,9 @@ const TeamOne = [
 const TeamTwo = [
   {
     id: 1,   
-    img:unknown,
+    img:team3,
     title: "Nisa’ Aulia Harismadani",
-    description: "-",
+    description: "Sebagai Technical Writer, Nisa’ bertugas menyusun dokumentasi teknis yang jelas dan ringkas, memastikan pengguna memahami informasi produk dengan mudah.",
   },
   {
     id: 2,
